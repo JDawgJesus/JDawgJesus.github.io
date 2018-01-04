@@ -9,11 +9,14 @@ body {
 .navbar-fixed-top {
     height:px;
 
-    .lava-text {
-        color: #D7F01D;
     }
 }
+
+    
      
-   h1{
+h1{
     font-family:Marck Script;
+    .lava-text {
+        color: #D7F01D;
+     
 }
