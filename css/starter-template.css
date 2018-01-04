@@ -6,10 +6,8 @@ body {
   text-align: center;
 }
 
-.navbar-fixed-top {
-    height:px;
-
-    }
+.navbar-brand {
+    color:red;
 }
 
     
