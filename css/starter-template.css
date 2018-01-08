@@ -20,11 +20,7 @@ h1{
 }
     
 .image-allign{
-    display: block;
-    margin-left: auto
-    margin-right: auto;
-    width: 10%;
-    top: 50%;
-    left: 50%;
     align-self: center;
+    margin: auto;
+    
 }
