@@ -19,8 +19,8 @@ h1{
      
 }
     
-.image-allign{
+.image-allign {
     align-self: center;
-    margin: auto;
-    
+    vertical-align: baseline;
+    position: absolute;
 }
