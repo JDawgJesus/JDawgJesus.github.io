@@ -31,3 +31,9 @@ h1{
     padding: 8px;
     align-self: auto
 }
+
+.img-logoallign {
+    position: static;
+    float: left;
+    
+    }
