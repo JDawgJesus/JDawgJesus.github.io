@@ -12,22 +12,19 @@ body {
      
 p {
     font-family: Arvo;
-    font-size: 12px;
-    
+    font-size: 12px; 
 }
 h1{
     font-family:Marck Script;
 }
-
-
     
 .image-allign {
     align-self: center;
     vertical-align: baseline;
-    position: absolute;
+    position: relative;
 }
 
-.img-jonathanallign {
+.image-jonathanallign {
     position: absolute;
     right: 150px;
     left: 150px;
@@ -36,8 +33,30 @@ h1{
     align-self: auto
 }
 
-.img-logoallign {
+.image-logoallign {
     position: static;
     float: left;
-    
     }
+
+.image-cavslogoallign {
+    position: relative;
+    left: 30px;
+    margin-left: 0px 0px 0px 30px;
+}
+.jumbotron{
+    color: midnightblue;
+    margin-right: 
+}
+.blue-box {
+    border: 3px;
+    background-color: gold;
+    padding-top: 40px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    margin-right: 15px;
+    margin-left: 15px;
+    background-color: gold;
+}
