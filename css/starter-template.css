@@ -24,29 +24,34 @@ h1{
     margin-left: 300;
     margin-right: 100;
 }
-.image-jonathanallign {
+
+.image-LBJdunkallign{
     position: absolute;
-    right: 1200px;
-    left: 0px;
-    top: 175px;
-    align-self: auto;
+    display: block;
+    right: 30px;
+    left: 450px;
+    top: 5px;
 }
 
-.image-logoallign {
-    position: static;
-    float: left;
+.image-jonathanallign {
+    position: fixed;
+    right: 1200px;
+    left: 30px;
+    top: 175px;
+    align-self: auto;    
 }
+
 .jumbotron{
     color: midnightblue;
     margin-right: 
 }
 
 .aboutmetextbox {
-    position: static;
-    right: 0px;
-    left: 9000px;
+    position: absolute;
+    right: 20px;
+    left: 260px;
     top: 175px;
-    border: 3px solid;
+    border: 3px solid #0d0d0d;
     align-self: auto;
 }
 .gold-box {
@@ -62,8 +67,8 @@ h1{
     margin-right: 15px;
     margin-left: 15px;
     background-color: gold;
-    
 }
+
 .prune-box {
     border: 3px;
     background-color: maroon;
@@ -76,4 +81,7 @@ h1{
     margin-right: 15px;
     margin-left: 15px;
     background-color: maroon;
+}
+.red-box {
+    
 }
