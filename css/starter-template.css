@@ -21,14 +21,14 @@ h1{
 .image-globallallign{
     position: absolute;
     display: block;
-    margin-left: 300;
-    margin-right: 100;
+    left: 120px;
+    right: auto;
 }
 
-.image-LBJdunkallign{
+.image-MJdunkallign{
     position: absolute;
     display: block;
-    right: 30px;
+    right: auto;
     left: 450px;
     top: 5px;
 }
