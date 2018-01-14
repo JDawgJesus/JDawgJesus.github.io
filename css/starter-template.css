@@ -10,12 +10,16 @@ body {
     color:red;
 }
      
+p {
+    font-family: Arvo;
+    font-size: 12px;
+    
+}
 h1{
     font-family:Marck Script;
-    .lava-text {
-        color: #D7F01D;
-     
 }
+
+
     
 .image-allign {
     align-self: center;
