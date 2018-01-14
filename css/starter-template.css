@@ -17,11 +17,12 @@ p {
 h1{
     font-family:Marck Script;
 }
-    
-.image-allign {
-    align-self: center;
-    vertical-align: baseline;
+
+.image-globallallign{
     position: relative;
+    display: block;
+    margin-left: 300;
+    margin-right: 100;
 }
 
 .image-jonathanallign {
@@ -47,16 +48,30 @@ h1{
     color: midnightblue;
     margin-right: 
 }
-.blue-box {
+.gold-box {
     border: 3px;
     background-color: gold;
-    padding-top: 40px;
+    padding-top: 10px;
     padding-right: 100px;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 15px;
+    margin-left: 15px;
+    background-color: gold;
+    
+}
+.prune-box {
+    border: 3px;
+    background-color: maroon;
+    padding-top: 30px;
+    padding-right: 100px;
+    padding-bottom: 15px;
     padding-left: 80px;
     margin-top: 0px;
     margin-bottom: 40px;
     margin-right: 15px;
     margin-left: 15px;
-    background-color: gold;
+    background-color: maroon;
 }
