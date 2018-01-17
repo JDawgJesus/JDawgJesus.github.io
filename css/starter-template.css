@@ -111,5 +111,11 @@ h1{
     background-color: maroon;
 }
 .red-box {
+}
+
+.imagebackgroundbody {
+    background-image: url("https://wallpapercave.com/wp/wp1827316.jpg");
+}
+    
     
 }
