@@ -22,19 +22,26 @@ h1{
     font-family:Marck Script;
 }
 
-.image-globallallign{
+.image-globallalign{
     position: absolute;
     display: block;
     left: 120px;
     right: auto;
 }
 
-.image-MJdunkallign{
+.image-MJdunkalign{
     position: absolute;
     display: block;
     right: auto;
     left: 450px;
     top: 5px;
+}
+.image-Curryhandlesalign{
+    position: absolute;
+    display: block;
+    right: auto;
+    left: 0px;
+    top: 375px;
 }
 
 .image-jonathanallign {
