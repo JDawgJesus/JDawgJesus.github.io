@@ -70,7 +70,7 @@ h2 {
     position: fixed;
     right: 1200px;
     left: 30px;
-    top: 175px;
+    top: 180px;
     align-self: auto;    
 }
 
@@ -83,7 +83,7 @@ h2 {
     position: absolute;
     right: 20px;
     left: 260px;
-    top: 175px;
+    top: 180px;
     border: 3px solid #0d0d0d;
     padding-top: 5px;
 }
@@ -133,32 +133,81 @@ h2 {
 }
 .LBJBiotextbox1 {
     position: absolute;
+    border: 20px;
     right: 700px;
     left: 30px;
-    top: 1170px;
+    top: 1380px;
     border: 3px solid #00008B;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 20px;
-    padding-right: 20px;
+    padding-right: 23px;
     margin top: 10px;
     margin-bottom: 0px;
     margin-left: -16px;
     margin right: 20px;
 }
 .LBJBiotextbox2 {
+    position: absolute;
     border: 20px;
     right: 30px;
     left: 400px;
     border: 3px solid #00008B;
     top: 20px;
-    padding-top: 00px;
+    padding-top: 10px;
     padding-bottom: 10px;
-    padding-left: 50px;
-    padding-right: 40px;
-    margin-top: 660px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 2010px;
     margin-bottom: 40px;
-    margin-left: 730px;
+    margin-left: 350px;
     margin right: 20px;
 }
+.LBJBiotextbox3 {
+    position: absolute;
+    border: 20px;
+    right: 700px;
+    left: 20px;
+    border: 3px solid #00008B;
+    top: 860px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 23px;
+    margin-top: 2017px;
+    margin-bottom: 40px;
+    margin-left: 14px;
+    margin right: 200px;
+}
+.LBJBiotextbox4 {
+    position: absolute;
+    border: 20px;
+    right: 30px;
+    left: 400px;
+    border: 3px solid #00008B;
+    top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 3569px;
+    margin-bottom: 40px;
+    margin-left: 350px;
+    margin right: 20px;
+}
+.LBJBiotextbox5 {
+    position: absolute;
+    border: 20px;
+    right: 700px;
+    left: 20px;
+    border: 3px solid #00008B;
+    top: 860px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 23px;
+    margin-top: 3347px;
+    margin-bottom: 40px;
+    margin-left: 14px;
+    margin right: 200px;
 }
