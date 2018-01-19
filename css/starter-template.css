@@ -43,10 +43,14 @@ h2 {
     right: auto;
 }
 
-.image-LBJnikealign {
-    position: absolute;
-    display: block;
+#image-LBJnikealign {
+    background-image: url("https://wallpapercave.com/wp/wp1827316.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: contain;
 }
+    
 .image-MJdunkalign{
     position: absolute;
     display: block;
@@ -81,7 +85,6 @@ h2 {
     left: 260px;
     top: 175px;
     border: 3px solid #0d0d0d;
-    align-self: auto;
     padding-top: 5px;
 }
 
@@ -128,15 +131,12 @@ h2 {
     margin-left: 200px;
     background-color: maroon;
 }
-.LBJBiotextbox {
+.LBJBiotextbox1 {
     border: 0px;
     position: absolute;
-    right:   
-}
-
-.imagebackgroundbody {
-    background-image: url("https://wallpapercave.com/wp/wp1827316.jpg");
-}
-    
+    right: 400px;
+    left: 30px;
+    border: 3px solid #00008B;
+    padding-top: 6px;
     
 }
