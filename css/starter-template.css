@@ -9,7 +9,7 @@ body {
 .LBJfirstparagraphtextbox{
     
 }
-.container{
+.pagealignment{
     padding-right: 15px;
     padding-left: 15px;
     margin-right: 190px;
@@ -214,7 +214,7 @@ h2 {
 .LBJBiotextbox6 {
     position: absolute;
     border: 10px;
-    right: 20px;
+    right: 15px;
     left: -1px;
     border: 2px solid #00008B;
     top: 55px;
@@ -230,8 +230,42 @@ h2 {
 
 .LBJcurrentpic {
     position: absolute;
-    display: grid;
+    display: block;
     right: -50px;
     left: 950px;
     top: 20px;
+}
+.img-overlay {
+  position: relative;
+  width: 50%;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: grey;
+  opacity: 0.8;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+  margin: 0px 250px;
+}
+
+.container:hover .overlay {
+  height: 50%;
+}
+
+.text {
+  white-space: nowrap; 
+  color: gold;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
 }
