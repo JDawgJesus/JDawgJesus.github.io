@@ -136,7 +136,7 @@ h2 {
     border: 20px;
     right: 700px;
     left: 30px;
-    top: 1410px;
+    top: 1450px;
     border: 3px solid #00008B;
     padding-top: 13px;
     padding-bottom: 10px;
@@ -153,7 +153,7 @@ h2 {
     right: 30px;
     left: 400px;
     border: 3px solid #00008B;
-    top: 20px;
+    top: 60px;
     padding-top: 13px;
     padding-bottom: 10px;
     padding-left: 20px;
@@ -169,7 +169,7 @@ h2 {
     right: 700px;
     left: 20px;
     border: 3px solid #00008B;
-    top: 860px;
+    top: 905px;
     padding-top: 13px;
     padding-bottom: 10px;
     padding-left: 30px;
@@ -185,7 +185,7 @@ h2 {
     right: 30px;
     left: 400px;
     border: 3px solid #00008B;
-    top: 20px;
+    top: 75px;
     padding-top: 13px;
     padding-bottom: 10px;
     padding-left: 20px;
@@ -201,7 +201,7 @@ h2 {
     right: 700px;
     left: 20px;
     border: 3px solid #00008B;
-    top: 860px;
+    top: 920px;
     padding-top: 13px;
     padding-bottom: 10px;
     padding-left: 30px;
@@ -214,16 +214,24 @@ h2 {
 .LBJBiotextbox6 {
     position: absolute;
     border: 10px;
-    right: 15px;
+    right: 20px;
     left: -1px;
     border: 2px solid #00008B;
     top: 55px;
-    padding-top: 13px;
-    padding-bottom: 1px;
+    padding-top: 10px;
+    padding-bottom: 5px;
     padding-left: 20px;
-    padding-right: 20px;
+    padding-right: 420px;
     margin-top: 1100px;
     margin-bottom: 0px;
     margin-left: 15px;
-    margin right: 10px;
+    margin right: 20px;
+}
+
+.LBJcurrentpic {
+    position: absolute;
+    display: grid;
+    right: -50px;
+    left: 950px;
+    top: 20px;
 }
