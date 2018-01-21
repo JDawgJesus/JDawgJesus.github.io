@@ -135,7 +135,7 @@ h2 {
     border: 20px;
     right: 700px;
     left: 30px;
-    top: 1471px;
+    top: 1470px;
     border: 3px solid #00008B;
     padding-top: 13px;
     padding-bottom: 10px;
@@ -218,18 +218,19 @@ h2 {
     border: 3px solid #00008B;
     top: 63px;
     padding-left: 40px;
-    padding-right: 420px;
+    padding-right: 500px;
     padding-bottom: -30px;
     margin-top: 1100px;
     margin-left: 16px;
-    margin right: 20px;
-}
-.container {
-    position: relative;
-    width: 40%;
-    left: 350px;
-    top: -70px;
-    padding-top: 0px;
+    margin-right: 0px;
+}   
+
+.LBJcurrentcontainer {
+    display: block;
+    width: 65%;
+    height: 256px;
+    margin: 100px 250px; 
+    margin: 102px 250px; 
 }
 .LBJcurrentpic {
     display: block;
@@ -237,39 +238,5 @@ h2 {
     height: 256px;
     margin: 102px 250px; 
     border: solid 12px #000000
-}
-.overlay {
-    position: absolute;
-    bottom: 0px;
-    left: 0px;
-    right: 0px;
-    bottom: 532px;
-    top: auto;
-    background-color: darkblue;
-    overflow: hidden;
-    width: 61.5%;
-    left: -2px;
-    right: 5px;
-    height: 0%;
-    transition: .5s ease;
-    margin-left: 267px;
-}
-
-.container:hover .overlay {
-  height: 16%;
-  opacity: 0.9;
-}
-
-.text {
-    white-space: nowrap; 
-    color: gold;
-    font-size: 25px;
-    font-family: Marck Script;
-    position: absolute;
-    overflow: hidden;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
 }
 
