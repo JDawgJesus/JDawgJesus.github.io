@@ -225,18 +225,15 @@ h2 {
     margin-right: 0px;
 }   
 
-.LBJcurrentcontainer {
-    display: block;
-    width: 65%;
-    height: 256px;
-    margin: 100px 250px; 
-    margin: 102px 250px; 
+.LBJcurrentpiccontainer {
+    position: absolute;
+    width: 20%;
 }
 .LBJcurrentpic {
     display: block;
-    width: 64.8%;
-    height: 256px;
-    margin: 102px 250px; 
-    border: solid 12px #000000
+    width: 100%;
+    height: auto;
+    margin: 20px 1050px;
+    border: 10px solid #000000
 }
 
