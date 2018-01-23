@@ -247,8 +247,8 @@ h2 {
     display: block;
     width: 90%;
     height: auto;
-    margin: 310px 800px;
-    border: 8px solid #00008B
+    margin: 310px 790px;
+    border: 8px solid #cccccc
 }
 
 .LBJHS2piccontainer {
@@ -262,5 +262,20 @@ h2 {
     width: 90%;
     height: auto;
     margin: 520px 1185px;
-    border: 8px solid #00008B
+    border: 8px solid #e6c300
 }
+
+.LBJyoungcavs1piccontainer {
+    position: absolute;
+    width: 19%;
+    margin-left: -10px;
+}
+
+.LBJyoungcavs1 {
+    display: block;
+    width: 90%;
+    height: auto;
+    margin: 520px 1185px;
+    border: 8px solid #e6c300
+}
+
