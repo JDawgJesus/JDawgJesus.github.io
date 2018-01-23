@@ -237,11 +237,30 @@ h2 {
     border: 10px solid #000000
 }
 
-.image-LBJHS1align {
-    position: fixed;
-    right: 1200px;
-    left: 30px;
-    top: 180px;
-    align-self: auto;  
+.LBJHS1piccontainer {
+    position: absolute;
+    width: 29%;
+    margin-left: -20px;
 }
 
+.LBJHS1 {
+    display: block;
+    width: 90%;
+    height: auto;
+    margin: 310px 800px;
+    border: 8px solid #00008B
+}
+
+.LBJHS2piccontainer {
+    position: absolute;
+    width: 19%;
+    margin-left: -10px;
+}
+
+.LBJHS2 {
+    display: block;
+    width: 90%;
+    height: auto;
+    margin: 520px 1185px;
+    border: 8px solid #00008B
+}
