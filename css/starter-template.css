@@ -299,7 +299,7 @@ h2 {
     width: 56.4%;
     height: auto;
     margin: 1280px 30px;
-    border: 8px solid #e6c300
+    border: 8px solid #cccccc
 }
 
 .LBJyoungcavs4piccontainer{
@@ -312,7 +312,46 @@ h2 {
     width: 35%;
     height: auto;
     margin: 1432px 490px;
-    border: 6px solid #000080
+    border: 6px solid #e6c300
 }
 
+.LBJdecision1piccontainer{
+    position: absolute;
+    width: 55%;
+    margin-left: -5px;
+}
+.LBJdecision1 {
+    display: block;
+    width: 65.2%;
+    height: auto;
+    margin: 1770px 790px;
+    border: 8px solid #000080
+}
 
+.LBJdecision2piccontainer{
+    position: absolute;
+    width: 70.8%;
+    margin-left: -5px;
+    top: 370px;
+    left: 180px;
+}
+.LBJdecision2 {
+    display: block;
+    width: 60%;
+    height: auto;
+    margin: 1767px 850px;
+    border: 8px solid #000000
+}
+
+.LBJheat1piccontainer{
+    position: absolute;
+    width: 115%;
+    margin-left: -1px;
+}
+.LBJheat1 {
+    display: block;
+    width: 80%;
+    height: auto;
+    margin: -1740px -135px;
+    border: 6px solid #e6c300
+}
