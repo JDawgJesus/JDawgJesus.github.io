@@ -160,7 +160,7 @@ h2 {
     margin-top: 2043px;
     margin-bottom: 40px;
     margin-left: 350px;
-    margin right: 20px;
+    margin-right: 0px;
 }
 .LBJBiotextbox3 {
     position: absolute;
@@ -171,11 +171,11 @@ h2 {
     top: 905px;
     padding-top: 13px;
     padding-bottom: 10px;
-    padding-left: 30px;
+    padding-left: 20px;
     padding-right: 23px;
     margin-top: 2035px;
     margin-bottom: 40px;
-    margin-left: 14px;
+    margin-left: -5px;
     margin right: 200px;
 }
 .LBJBiotextbox4 {
@@ -189,7 +189,7 @@ h2 {
     padding-bottom: 10px;
     padding-left: 20px;
     padding-right: 20px;
-    margin-top: 3555px;
+    margin-top: 3525px;
     margin-bottom: 40px;
     margin-left: 350px;
     margin right: 20px;
@@ -205,9 +205,9 @@ h2 {
     padding-bottom: 10px;
     padding-left: 30px;
     padding-right: 23px;
-    margin-top: 3313px;
+    margin-top: 3285px;
     margin-bottom: 40px;
-    margin-left: 14px;
+    margin-left: 0px;
     margin right: 200px;
 }
 .LBJBiotextbox6 {
@@ -330,7 +330,7 @@ h2 {
 
 .LBJdecision2piccontainer{
     position: absolute;
-    width: 70.8%;
+    width: 66.4%;
     margin-left: -5px;
     top: 370px;
     left: 180px;
@@ -339,19 +339,45 @@ h2 {
     display: block;
     width: 60%;
     height: auto;
-    margin: 1767px 850px;
+    margin: 1760px 850px;
     border: 8px solid #000000
 }
 
 .LBJheat1piccontainer{
     position: absolute;
-    width: 115%;
+    width: 130%;
     margin-left: -1px;
 }
 .LBJheat1 {
     display: block;
+    width: 73%;
+    height: auto;
+    margin: -1725px -155px;
+    border: 6px solid #cccccc
+}
+
+.LBJheat2piccontainer{
+    position: absolute;
+    width: 66.2%;
+    margin-left: -1px;
+}
+.LBJheat2 {
+    display: block;
     width: 80%;
     height: auto;
-    margin: -1740px -135px;
+    margin: 1735px -155px;
     border: 6px solid #e6c300
 }
+
+.LBJheat3piccontainer{
+    position: absolute;
+    width: 100.1%;
+    margin-left: -5px;
+}
+.LBJheat3 {
+    display: block;
+    width: 80%;
+    height: auto;
+    margin: -1987px 217px;
+    border: 6px solid #000080
+
