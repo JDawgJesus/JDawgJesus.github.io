@@ -380,4 +380,43 @@ h2 {
     height: auto;
     margin: -1987px 217px;
     border: 6px solid #000080
-
+}
+.LBJcavs1container {
+    position: absolute;
+    width: 100.1%;
+    margin-left: -5px;
+}
+.LBJcavs1 {
+    display: block;
+    width: 102.1%;
+    height: auto;
+    margin: -10px 780px;
+    margin-top: 2050px;
+    border: 6px solid #000000
+}
+.LBJcavs2container {
+    position: absolute;
+    width: 100.1%;
+    margin-left: -5px;
+}
+.LBJcavs2 {
+    display: block;
+    width: 66.5%;
+    height: auto;
+    margin: -10px 960px;
+    margin-top: 30px;
+    border: 6px solid #cccccc
+}
+.LBJcavs3container {
+    position: absolute;
+    width: 100.1%;
+    margin-left: -5px;
+}
+.LBJcavs3 {
+    display: block;
+    width: 79.7%;
+    height: auto;
+    margin: -10px 590px;
+    margin-top: -470px;
+    border: 6px solid #e6c300
+}
